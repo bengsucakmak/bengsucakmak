@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=Bengüsu%20Çakmak&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=130&section=header&text=Bengüsu%20Çakmak&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <strong>Artificial Intelligence Engineering Student</strong><br/>
-  LLMs • Agent Systems • RAG • Computer Vision
+  LLMs • Agent Systems • RAG • Computer Vision • Applied ML
 </p>
 
 <p align="center">
@@ -15,69 +15,116 @@
 
 ---
 
-## Profile
+## Overview
 
-Senior-year **Artificial Intelligence Engineering** student with industry experience in **LLM-based systems, agent architectures, and applied machine learning**.
+Senior-year **Artificial Intelligence Engineering** student with strong industry exposure and a **broad yet deep technical skill set**.
 
-- Focused on **Large Language Models, RAG pipelines, and tool-calling agents**
-- Experienced with **LangChain & LangGraph** in real-world scenarios
-- Hands-on practice with **LoRA / QLoRA fine-tuning and benchmarking**
-- Background in **computer vision and data-driven system design**
-
-Currently seeking opportunities to contribute to **scalable, production-grade AI systems**.
+My work spans **LLM systems, agent architectures, data-driven ML pipelines, and computer vision**, with a focus on building **reliable, scalable, and production-oriented AI systems**.
 
 ---
 
-## Tech Stack
+## Technology Stack (Core Strength)
 
+### Programming & Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker" />
-</p>
-
-<p align="center">
-  LangChain • LangGraph • RAG • SQL • Streamlit
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,matlab,linux" />
 </p>
 
 ---
 
-## Selected Work
+### Machine Learning & Deep Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+- Supervised & Unsupervised Learning  
+- Model evaluation, error analysis, and optimization  
+- GPU-aware training and inference workflows  
+
+---
+
+### Large Language Models & Agent Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LangChain & LangGraph-based agent design  
+- Tool-calling, memory, and multi-step reasoning agents  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- LoRA / QLoRA fine-tuning (PEFT)  
+- Hallucination mitigation & schema-aware generation  
+
+---
+
+### Data Engineering & Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
+
+- SQL-based data modeling (SQLite, SQL Server)  
+- Data cleaning, normalization, and outlier analysis  
+- DataOps-style pipelines for ML consistency  
+
+---
+
+### Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+- Object detection, tracking, and classification  
+- Real-time image processing pipelines  
+- Defense and surveillance-oriented CV scenarios  
+
+---
+
+### Visualization & Prototyping
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=streamlit" />
+</p>
+
+- Streamlit-based interactive ML dashboards  
+- Visualization of model outputs and analytical results  
+- Rapid prototyping for AI-driven systems  
+
+---
+
+### Developer Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
+</p>
+
+- Version control & collaborative workflows  
+- Experiment tracking and reproducibility  
+- Notebook-to-production mindset  
+
+---
+
+## Selected Projects
 
 **LLM-based SQL Tool-Calling Agent (HAVELSAN)**  
-Natural language to secure, schema-aware SQL generation using LangGraph and RAG.  
-Includes automatic join-path discovery and a Streamlit-based visualization interface.
+LangGraph-based agent that transforms natural language into secure, schema-aware SQL using RAG. Includes join-path discovery and Streamlit-based visualization.
 
 **Transformer-based Process Mining System**  
-Extracts business processes from unstructured text and generates BPMN/CPM diagrams with bottleneck analysis.
+Extracts business processes from unstructured text and generates BPMN/CPM diagrams with bottleneck analysis and optimization insights.
 
-**LLM Fine-Tuning & Benchmarking**  
-LoRA / QLoRA fine-tuning of open-source LLMs with detailed GPU-level performance analysis.
+**LLM Fine-Tuning & Benchmarking Suite**  
+Parameter-efficient fine-tuning (LoRA / QLoRA) of open-source LLMs with detailed GPU benchmarking (throughput, latency, memory).
 
 **Life Architect AI**  
-Multi-agent personal assistant featuring task generation, mood tracking, reward systems, and productivity tools.
-
----
-
-## Competitions
-
-- **Huawei ICT Competition 2024–2025 (Innovation Track)**  
-  Smart agriculture system integrating AI, IoT, 5G, and digital twin technologies.
-
-- **TEKNOFEST 2025 – Air Defense Systems**  
-  Real-time computer vision pipelines for detection, tracking, and classification.
+Multi-agent personal assistant featuring task generation, mood tracking, reward systems, productivity tools, and social integrations.
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bengsucakmak&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengsucakmak&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bengsucakmak&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengsucakmak&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
 
 <p align="center">
-  <em>Building practical AI systems with a focus on reliability, scalability, and real-world impact.</em>
+  <em>Building AI systems with strong engineering foundations and real-world constraints in mind.</em>
 </p>
