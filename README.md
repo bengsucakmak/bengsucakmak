@@ -1,90 +1,83 @@
-# Bengüsu Çakmak
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=Bengüsu%20Çakmak&fontSize=36&fontColor=ffffff" />
+</p>
 
-Artificial Intelligence Engineer (Senior Year Student)  
-Focused on Large Language Models, Agent Systems, and Computer Vision  
-Aspiring AI Engineer working on large-scale, production-grade systems
+<p align="center">
+  <strong>Artificial Intelligence Engineering Student</strong><br/>
+  LLMs • Agent Systems • RAG • Computer Vision
+</p>
 
----
-
-## About Me
-
-I am a senior-year Artificial Intelligence Engineering student with hands-on industry experience in LLM-based systems, agent architectures, and applied machine learning.
-
-My work primarily focuses on:
-- Large Language Models (LLMs) and retrieval-augmented generation (RAG)
-- LangChain and LangGraph-based agent systems
-- Parameter-efficient fine-tuning (LoRA / QLoRA)
-- Data-driven system design and evaluation
-
-My goal is to join a team that develops scalable and reliable AI solutions in real-world environments.
+<p align="center">
+  <a href="https://github.com/bengsucakmak">GitHub</a> •
+  <a href="https://www.linkedin.com/in/bengüsu-çakmak-460278279">LinkedIn</a> •
+  <a href="mailto:bengusucakmak8@gmail.com">Email</a>
+</p>
 
 ---
 
-## Technical Skills
+## Profile
 
-### Core AI & ML
-- Python
-- PyTorch
-- TensorFlow / Keras
-- Scikit-learn
+Senior-year **Artificial Intelligence Engineering** student with industry experience in **LLM-based systems, agent architectures, and applied machine learning**.
 
-### LLM & Agent Systems
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- LoRA / QLoRA fine-tuning
+- Focused on **Large Language Models, RAG pipelines, and tool-calling agents**
+- Experienced with **LangChain & LangGraph** in real-world scenarios
+- Hands-on practice with **LoRA / QLoRA fine-tuning and benchmarking**
+- Background in **computer vision and data-driven system design**
 
-### Data & Visualization
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
-### Tools & Platforms
-- Git
-- Streamlit
-- SQL (SQLite, SQL Server)
-- Linux
+Currently seeking opportunities to contribute to **scalable, production-grade AI systems**.
 
 ---
 
-## Selected Projects
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,linux,docker" />
+</p>
+
+<p align="center">
+  LangChain • LangGraph • RAG • SQL • Streamlit
+</p>
+
+---
+
+## Selected Work
 
 **LLM-based SQL Tool-Calling Agent (HAVELSAN)**  
-Designed a LangGraph-based agent that converts natural language queries into secure, schema-aware SQL queries using RAG. Implemented automatic join-path discovery and a Streamlit-based visualization interface.
+Natural language to secure, schema-aware SQL generation using LangGraph and RAG.  
+Includes automatic join-path discovery and a Streamlit-based visualization interface.
 
 **Transformer-based Process Mining System**  
-Developed an NLP system that extracts business processes from unstructured text and automatically generates BPMN/CPM diagrams, including bottleneck analysis and improvement suggestions.
+Extracts business processes from unstructured text and generates BPMN/CPM diagrams with bottleneck analysis.
 
-**LLM Fine-Tuning and Benchmarking**  
-Fine-tuned open-source LLMs using LoRA and QLoRA techniques and conducted comprehensive benchmarking across different GPU configurations, analyzing throughput, latency, and memory usage.
+**LLM Fine-Tuning & Benchmarking**  
+LoRA / QLoRA fine-tuning of open-source LLMs with detailed GPU-level performance analysis.
 
 **Life Architect AI**  
-Built a multi-agent personal assistant with task generation, mood tracking, reward mechanisms, productivity tools, and social integration modules.
+Multi-agent personal assistant featuring task generation, mood tracking, reward systems, and productivity tools.
 
 ---
 
 ## Competitions
 
-Huawei ICT Competition 2024–2025 (Innovation Track)  
-Designed a smart agriculture system integrating AI, IoT, 5G, and digital twin technologies.
+- **Huawei ICT Competition 2024–2025 (Innovation Track)**  
+  Smart agriculture system integrating AI, IoT, 5G, and digital twin technologies.
 
-TEKNOFEST 2025 – Air Defense Systems  
-Developed real-time computer vision algorithms for object detection, tracking, and classification in defense-oriented scenarios.
+- **TEKNOFEST 2025 – Air Defense Systems**  
+  Real-time computer vision pipelines for detection, tracking, and classification.
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bengsucakmak&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengsucakmak&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bengsucakmak&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengsucakmak&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## Contact
-
-- GitHub: https://github.com/bengsucakmak
-- LinkedIn: https://www.linkedin.com/in/bengüsu-çakmak-460278279
-- Email: bengusucakmak8@gmail.com
+<p align="center">
+  <em>Building practical AI systems with a focus on reliability, scalability, and real-world impact.</em>
+</p>
