@@ -108,7 +108,7 @@ I focus on building **production-oriented AI systems**, especially in the areas 
 
 ## Selected Projects
 
-**LLM-based SQL Tool-Calling Agent (HAVELSAN)**  
+**LLM-based SQL Tool-Calling Agent **  
 LangGraph-based agent that transforms natural language into secure, schema-aware SQL queries using RAG. Includes automatic join-path discovery and a Streamlit-based visualization interface.
 
 **Transformer-based Process Mining System**  
